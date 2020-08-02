@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+    },
+    {
+      "id": 2,
+      "value": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore"
+    },
+    {
+      "id": 3,
+      "value": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit"
+    },
+    {
+      "id": 4,
+      "value": "Quis autem vel eum iure reprehenderit qui in ea voluptate"
+    },
+    {
+      "id": 5,
+      "value": "Excepteur sint occaecat cupidatat non proident, sunt "
+    }
+  ],
+  "profile": {
+    "name": "nittolese"
+  }
+}
